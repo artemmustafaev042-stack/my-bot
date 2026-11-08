@@ -7,7 +7,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 from aiogram.exceptions import TelegramForbiddenError, TelegramBadRequest
 
 # ================= НАСТРОЙКИ =================
-BOT_TOKEN = "9054136450:AAELY2x5ZHANZ2dEQVszipDeRG8RojpMLu4"
+BOT_TOKEN = "9054136450:AAHPr6Nt2HxmRyy_Q-8sXtImn7Ykrm-gNsM"
 MAIN_ADMIN_ID = 8650129848  # <-- СЮДА СВОЙ ID
 ADMIN_USERNAME = "@bogwesi"  # <-- СЮДА СВОЙ ЮЗЕРНЕЙМ
 BOT_LINK = "https://t.me/darkbtcrobot"  # <-- ССЫЛКА НА БОТА
